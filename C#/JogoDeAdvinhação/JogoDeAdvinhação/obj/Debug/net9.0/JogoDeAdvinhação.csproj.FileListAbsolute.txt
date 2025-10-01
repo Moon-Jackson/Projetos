@@ -1,0 +1,14 @@
+C:\Users\jacks\Documents\C#\Projects\JogoDeAdvinhação\JogoDeAdvinhação\bin\Debug\net9.0\JogoDeAdvinhação.exe
+C:\Users\jacks\Documents\C#\Projects\JogoDeAdvinhação\JogoDeAdvinhação\bin\Debug\net9.0\JogoDeAdvinhação.deps.json
+C:\Users\jacks\Documents\C#\Projects\JogoDeAdvinhação\JogoDeAdvinhação\bin\Debug\net9.0\JogoDeAdvinhação.runtimeconfig.json
+C:\Users\jacks\Documents\C#\Projects\JogoDeAdvinhação\JogoDeAdvinhação\bin\Debug\net9.0\JogoDeAdvinhação.dll
+C:\Users\jacks\Documents\C#\Projects\JogoDeAdvinhação\JogoDeAdvinhação\bin\Debug\net9.0\JogoDeAdvinhação.pdb
+C:\Users\jacks\Documents\C#\Projects\JogoDeAdvinhação\JogoDeAdvinhação\obj\Debug\net9.0\JogoDeAdvinhação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacks\Documents\C#\Projects\JogoDeAdvinhação\JogoDeAdvinhação\obj\Debug\net9.0\JogoDeAdvinhação.AssemblyInfoInputs.cache
+C:\Users\jacks\Documents\C#\Projects\JogoDeAdvinhação\JogoDeAdvinhação\obj\Debug\net9.0\JogoDeAdvinhação.AssemblyInfo.cs
+C:\Users\jacks\Documents\C#\Projects\JogoDeAdvinhação\JogoDeAdvinhação\obj\Debug\net9.0\JogoDeAdvinhação.csproj.CoreCompileInputs.cache
+C:\Users\jacks\Documents\C#\Projects\JogoDeAdvinhação\JogoDeAdvinhação\obj\Debug\net9.0\JogoDeAdvinhação.dll
+C:\Users\jacks\Documents\C#\Projects\JogoDeAdvinhação\JogoDeAdvinhação\obj\Debug\net9.0\refint\JogoDeAdvinhação.dll
+C:\Users\jacks\Documents\C#\Projects\JogoDeAdvinhação\JogoDeAdvinhação\obj\Debug\net9.0\JogoDeAdvinhação.pdb
+C:\Users\jacks\Documents\C#\Projects\JogoDeAdvinhação\JogoDeAdvinhação\obj\Debug\net9.0\JogoDeAdvinhação.genruntimeconfig.cache
+C:\Users\jacks\Documents\C#\Projects\JogoDeAdvinhação\JogoDeAdvinhação\obj\Debug\net9.0\ref\JogoDeAdvinhação.dll
